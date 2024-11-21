@@ -1,0 +1,6 @@
+.venv
+.envrc
+.direnv
+.dockerignore
+Dockerfile
+Makefile

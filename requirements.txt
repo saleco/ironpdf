@@ -1,0 +1,16 @@
+awslambdaric==2.0.1
+boto3==1.20.40
+botocore==1.23.40
+fsspec==2022.1.0
+jmespath==0.10.0
+python-dateutil==2.8.2
+python-gnupg==0.4.8
+s3transfer==0.5.0
+simplejson==3.17.2
+six==1.16.0
+urllib3==1.26.8
+regex==2022.9.13
+pycountry==24.6.1
+datetime
+ghostscript==0.7
+ironpdf
